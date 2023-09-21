@@ -22,17 +22,18 @@ struct AddView: View {
 				TextField("Add something ..", text: $textFieldItem)
 					.padding(.horizontal)
 					.frame(height: 50)
-					.background(Color("Primary"))
+					.border(/*@START_MENU_TOKEN@*/Color("Primary")/*@END_MENU_TOKEN@*/, width: /*@START_MENU_TOKEN@*/2/*@END_MENU_TOKEN@*/)
 					.cornerRadius(6)
+					
 				
 				Button(action: saveButton, label: {
 					Text("Save".uppercased())
 						.bold()
 						.frame(width: 200, height: 40)
-						.background(Color("Secondary"))
+						.background(Color("ActiveColor") )
 						.foregroundColor(.white)
 						.cornerRadius(20)
-						.padding(2)
+						.padding(10)
 				})
 			}.padding(10)
 		}
