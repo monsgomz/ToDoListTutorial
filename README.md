@@ -2,7 +2,7 @@
 
 Welcome to my SwiftUI To-Do App ✅ project! This app was created as part of a tutorial to learn SwiftUI and build a simple yet functional To-Do application.
 
-(/toDoApp.png)
+[](/toDoApp.png)
 
 ### About the Project
 
