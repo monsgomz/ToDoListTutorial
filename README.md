@@ -2,6 +2,8 @@
 
 Welcome to my SwiftUI To-Do App ✅ project! This app was created as part of a tutorial to learn SwiftUI and build a simple yet functional To-Do application.
 
+(/toDoApp.png)
+
 ### About the Project
 
 This project serves as a hands-on learning experience in SwiftUI development. The app allows users to create, edit, and manage their to-do tasks. It demonstrates various SwiftUI concepts, including view layouts, data binding, and user interactions.
