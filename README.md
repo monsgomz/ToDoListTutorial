@@ -11,7 +11,7 @@ This project serves as a hands-on learning experience in SwiftUI development. Th
 
 ## Features
 
-- reate new to-do tasks
+- Create new to-do tasks
 - Mark tasks as completed
 - Edit existing tasks
 - Delete tasks
